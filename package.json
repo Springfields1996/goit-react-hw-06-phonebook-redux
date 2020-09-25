@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "goit-react-hw-06-phonebook-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Springfields1996.github.io/goit-react-hw-06-phonebook",
+  "homepage": "https://Springfields1996.github.io/goit-react-hw-06-phonebook-redux",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
